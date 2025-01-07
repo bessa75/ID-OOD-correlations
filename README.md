@@ -9,4 +9,4 @@ gcn.py : Basic GCN architecture used in the paper
 
 gat.py : GAT architecture compared with the GCN in the paper
 
-good : modified clone of the GOOD benchmark repository
+good : Modified clone of the GOOD benchmark repository
